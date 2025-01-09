@@ -1,5 +1,8 @@
+## 🤘 Connect with Me
 
-
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/darsh-gadara-0a83a62b0/" target="_blank">
+  <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="45" height="45" alt="LinkedIn"/>
+</a>
 
 <div align = "left">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="40" height="40">Languages and Tools</h2>
