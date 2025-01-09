@@ -7,48 +7,41 @@
 
 <table align="center">
   <tr>
-     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java"/>
-      <br>JAVA
+    <td align="center" width="90">
+      <img src="https://cdnl.iconscout.com/lottie/premium/thumb/coinbase-animation-download-in-lottie-json-gif-static-svg-file-formats--logo-wallet-cryptocurrency-metamask-pack-science-technology-animations-4719010.gif" width="60" height="60" alt="c" title="c"/>
+      <br>C
     </td>
     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45"  alt="c++" title="c++"/>
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" alt="c++" title="c++"/>
       <br>C++
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html"/>
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html"/>
       <br>HTML
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css"/>
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css"/>
       <br>CSS
     </td>
     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
-      <br>Javascript
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="figma" title="figma"/>
+      <br>Figma
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="aws" title="aws"/>
-      <br>NodeJS
-    </td>
-     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="aws"/>
-      <br>React
-    </td>
-     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="mysql" title="mysql"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="mysql" title="mysql"/>
       <br>MySQL
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=git" width="45" height="45" alt="git" title="git"/>
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="python" title="python"/>
+      <br>Python
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" title="postman"/>
-      <br>Postman
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
+      <br>Javascript
     </td>
-    </tr>
+  </tr>
 </table>
+
 
 
 <div align = "left">
